@@ -24,7 +24,7 @@ Hey there, fellow coder! I'm a passionate Control Engineer and Automation enthus
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
   </a>
   <a href="https://www.mathworks.com/products/matlab.html" target="_blank" rel="noreferrer">
-    <img src="https://www.stickpng.com/img/icons-logos-emojis/iconic-brands/matlab-logo" width="36" height="36" alt="MATLAB" />
+    <img src="https://github.com/levietduc0712/profile/blob/main/621f8fa9654abf384c30d63d.png" width="36" height="36" alt="MATLAB" />
   </a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
