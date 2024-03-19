@@ -6,7 +6,6 @@ Hey there, fellow coder! I'm a passionate Control Engineer and Automation enthus
 * 🌍  I'm based in VietNam
 * 🖥️  See my portfolio at [Viet Duc](http://levietduc.website)
 * ✉️  You can contact me at [levietduc0712@gmail.com](mailto:levietduc0712@gmail.com)
-* 🚀  I'm currently working on [MSP430FR6989 LaunchPad](http://github.com/levietduc0712/MSP430FR6989) and [NUCLEO_F446RE](https://github.com/levietduc0712/NUCLEO_F446RE/)
 * 🧠  I'm learning Control Engineering and Automation
 
 
