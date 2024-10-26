@@ -1,12 +1,21 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Việt Đức
 ================================================================================================================================
 
-Hey there, fellow coder! I'm a passionate Control Engineer and Automation enthusiast with a flair for coding. I delve into the intricate world of Control Engineering and Automation, where I orchestrate the dance of electrons and bits to create seamless, efficient systems. Over the past four years (from 2019), I've been on an exciting journey of learning and growth, expanding my horizons beyond traditional engineering by immersing myself in the realm of programming. My primary playground is the fascinating field of Control Engineering, where I wield mathematical models and algorithms to command systems into graceful operation. Whether it's designing PID controllers, crafting automation solutions, or optimizing processes, I thrive on the challenges of bringing order to the chaos of dynamic systems. In my quest for mastery, I've spent the last four years honing my coding skills. From the elegance of high-level languages to the nitty-gritty of low-level programming, I've embraced the art of coding as a powerful tool to complement my engineering prowess. My coding journey has been marked by a relentless pursuit of knowledge, solving real-world problems with lines of code. Embedded programming has become a special passion of mine. The thrill of working at the bare-metal level, breathing life into hardware, and optimizing for efficiency keeps me captivated. I'm a firm believer in continuous learning, always seeking to stay ahead of the curve in this ever-evolving technological landscape. I'm always open to connecting with like-minded individuals, whether it's for collaboration, discussion, or just to geek out over the latest tech trends. Feel free to drop me a message or connect through any of the platforms listed below.
+I'm an Embedded Software Engineer with a passion for creating seamless, efficient, and optimized systems at the intersection of hardware and software. My journey started in Control Engineering, where I developed a deep understanding of automation and control, but my path led me to specialize in embedded systems—where code and hardware meet to make powerful ideas a reality.
+
+I focus on:
+
+* Embedded Systems Development: Designing efficient, low-level software that brings hardware to life, from microcontrollers to real-time processors.
+* Real-Time Control Solutions: Crafting precise algorithms for control systems where timing and accuracy are non-negotiable.
+* Automation and Integration: Building systems that streamline and automate processes, ensuring performance and reliability for various applications.
+Every project presents a new challenge, and I enjoy diving into the details, optimizing every bit of code to make systems run smoother, faster, and more reliably. Whether it's configuring microcontrollers, implementing control algorithms, or tackling resource constraints, I’m driven by the potential to shape the future of embedded technology.
+
+I’m always open to connecting with other engineers, developers, and tech enthusiasts. Let’s collaborate, share insights, or simply geek out over the latest in embedded systems and automation!
 
 * 🌍  I'm based in VietNam
 * 🖥️  See my portfolio at [Viet Duc](http://levietduc.website)
 * ✉️  You can contact me at [levietduc0712@gmail.com](mailto:levietduc0712@gmail.com)
-* 🧠  I'm learning Control Engineering and Automation
+* 💼  I'm working as an Embedded Software Engineer
 
 
 ### Skills
