@@ -13,7 +13,6 @@ Every project presents a new challenge, and I enjoy diving into the details, opt
 I’m always open to connecting with other engineers, developers, and tech enthusiasts. Let’s collaborate, share insights, or simply geek out over the latest in embedded systems and automation!
 
 * 🌍  I'm based in VietNam
-* 🖥️  See my portfolio at [Viet Duc](http://levietduc.website)
 * ✉️  You can contact me at [levietduc0712@gmail.com](mailto:levietduc0712@gmail.com)
 * 💼  I'm working as an Embedded Software Engineer
 
